@@ -94,10 +94,15 @@ To test the app without waiting for actual doom scrolling:
 3. Tap "Simulate Doom Scrolling"
 4. You'll receive a notification about one of your books
 
+## Documentation
+
+- **[QUICKSTART.md](QUICKSTART.md)**: Step-by-step guide to get the app running
+- **[ARCHITECTURE.md](ARCHITECTURE.md)**: Detailed technical architecture and design decisions
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is available under the MIT License.
+This project is available under the MIT License. See [LICENSE](LICENSE) for details.
