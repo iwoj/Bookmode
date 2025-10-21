@@ -96,8 +96,11 @@ To test the app without waiting for actual doom scrolling:
 
 ## Documentation
 
-- **[QUICKSTART.md](QUICKSTART.md)**: Step-by-step guide to get the app running
+- **[QUICKSTART.md](QUICKSTART.md)**: Step-by-step guide to get the app running on your device
 - **[ARCHITECTURE.md](ARCHITECTURE.md)**: Detailed technical architecture and design decisions
+- **[NOTES.md](NOTES.md)**: Implementation notes, limitations, and future enhancements
+- **[CONTRIBUTING.md](CONTRIBUTING.md)**: Guidelines for contributing to the project
+- **[SCREENSHOTS.md](SCREENSHOTS.md)**: UI/UX guide and expected screen layouts
 
 ## Contributing
 
